@@ -13,10 +13,10 @@ const Map iconsDict = {
 };
 
 Map imagesDict = {
-  Category.food: "lib/assets/images/food.jpg",
-  Category.luxry: "lib/assets/images/luxry.jpeg",
-  Category.shopping: "lib/assets/images/shopping.jpeg",
-  Category.work: "lib/assets/images/work.jpeg",
+  Category.food: "assets/images/food.jpg",
+  Category.luxry: "assets/images/luxry.jpeg",
+  Category.shopping: "assets/images/shopping.jpeg",
+  Category.work: "assets/images/work.jpeg",
 };
 
 enum Category { food, shopping, work, luxry }

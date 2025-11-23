@@ -178,7 +178,6 @@ class _ExpenseMainScreenState extends State<ExpenseMainScreen> {
                         onDismissed: (direction) {
                           removeExpense(_expensesList[index]);
                         },
-                        // onDismissed: ,
                       ),
                     ),
             ),
